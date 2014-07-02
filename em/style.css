@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+  font-size: 62.5%;
+}
+
+.fontSample01 {
+  font-size: 2.0em; /* 20px */
+}
+
+.antiPatternOuter {
+  font-size: 2.0em; /* 20px */
+}
+.antiPatternInner {
+  font-size: 2.0em; /* not 20px */
+}

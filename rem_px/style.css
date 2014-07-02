@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+html {
+  font-size: 62.5%;
+}
+
+.fontSample01 {
+  font-size: 20px;
+  font-size: 2.0rem;
+}
